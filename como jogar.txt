@@ -1,0 +1,11 @@
+
+
+instale o node js que está na pasta
+
+No terminal:
+
+Abra o terminal do visual code
+insira "cd my-phaser-game"
+Depois insira "npm install"
+Depois insira "npm run dev"
+Após executar, vai aparecer um link local. Abra-o 
