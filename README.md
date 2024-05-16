@@ -24,6 +24,7 @@ Após clonar o repositório, navegue até o diretório do projeto usando o segui
 cd my-phaser-game
 npm install
 
+
 Executando o Jogo:
 
 Uma vez que todas as dependências tenham sido instaladas com sucesso, você pode iniciar o servidor de desenvolvimento com o seguinte comando:
