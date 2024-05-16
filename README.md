@@ -1,11 +1,11 @@
-**My Phaser Game
-**
+My Phaser Game
+
 
 ![Captura de tela 2024-05-16 170332](https://github.com/MathServilha/phaser_game/assets/103152240/e0aba08f-23c3-4c0e-9b09-6c39c409e86a)
 
 
 
-Este é um jogo experimental criado com Phaser, uma poderosa biblioteca para desenvolvimento de jogos em JavaScript. O objetivo deste projeto é fornecer um ambiente de aprendizado para familiarização com a biblioteca Phaser.
+Este é um jogo experimental criado com Phaser, uma  biblioteca para desenvolvimento de jogos em JavaScript. O objetivo deste projeto é fornecer um ambiente de aprendizado para familiarização com a biblioteca Phaser.
 
 Instruções de Instalação e Execução:
 
@@ -22,11 +22,10 @@ Após clonar o repositório, navegue até o diretório do projeto usando o segui
 
 
 cd my-phaser-game
-Em seguida, execute o comando abaixo para instalar as dependências necessárias do projeto:
 npm install
 
-**Executando o Jogo:
-**
+Executando o Jogo:
+
 Uma vez que todas as dependências tenham sido instaladas com sucesso, você pode iniciar o servidor de desenvolvimento com o seguinte comando:
 
 npm run dev
